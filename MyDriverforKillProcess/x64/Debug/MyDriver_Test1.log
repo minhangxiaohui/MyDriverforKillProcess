@@ -1,0 +1,10 @@
+﻿  Building 'MyDriver_Test1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  MyTestDriver.c
+C:\Users\ga0weI03\VisualStudioProject\MyFileHidingDriver\MyDriver_Test1\MyTestDriver.c(65,38): warning C4047: “函数”:“PUNICODE_STRING”与“PUNICODE_STRING *”的间接级别不同
+C:\Users\ga0weI03\VisualStudioProject\MyFileHidingDriver\MyDriver_Test1\MyTestDriver.c(65,24): warning C4024: “RtlInitUnicodeString”: 形参和实参 1 的类型不同
+C:\Users\ga0weI03\VisualStudioProject\MyFileHidingDriver\MyDriver_Test1\MyTestDriver.c(70,7): warning C4047: “函数”:“PCUNICODE_STRING”与“PUNICODE_STRING *”的间接级别不同
+C:\Users\ga0weI03\VisualStudioProject\MyFileHidingDriver\MyDriver_Test1\MyTestDriver.c(70,7): warning C4024: “RtlUnicodeStringToInteger”: 形参和实参 1 的类型不同
+C:\Users\ga0weI03\VisualStudioProject\MyFileHidingDriver\MyDriver_Test1\MyTestDriver.c(126): warning C4715: “DispatchDevcCTL”: 不是所有的控件路径都返回值
+  MyDriver_Test1.vcxproj -> C:\Users\ga0weI03\VisualStudioProject\MyFileHidingDriver\x64\Debug\MyDriver_Test1.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
